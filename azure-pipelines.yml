@@ -24,7 +24,7 @@ resources :
 
     type : github
 
-    endpoint : https://dev.azure.com/sdavy/TestProject/_settings/adminservices?resourceId=03956714-cb1a-4752-ac66-bf46dc5dd905
+    endpoint : sibbyd
 
     name : ILiuACR/shared-azure-pipeline-templates
 
